@@ -1,5 +1,5 @@
 /*
-  Copyright (c) 2021 José Puga. Under MIT License.
+  Copyright (c) 2023 José Puga. Under MIT License.
   My Conway Game of Life implementation usign a 1d vector.
   A simple exercise to learn Rust.
 */
